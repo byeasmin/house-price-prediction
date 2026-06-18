@@ -55,9 +55,9 @@ The model is deployed as an interactive web application using Gradio.
 
 ### Screenshots
 
-![Gradio Interface](screenshots/model_predictions_comparison.png)
+![Gradio Interface](screenshot/gradio_interface.png)
 
-![Model Comparison](screenshots/model_comparison.png)
+![Model Comparison](screenshot/model_comparison.png)
 
 ## Installation
 
